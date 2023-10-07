@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'views/homepage_2.dart';
+//for second UI
+// import 'views/homepage_2.dart';
 //for 1st UI
-// import 'views/homepage.dart';
+import 'views/homepage.dart';
 
 
 class MyApp extends StatelessWidget {
